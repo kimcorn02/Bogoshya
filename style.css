@@ -1,0 +1,71 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .relative1{
+    width: 1920px;
+    height: 1400px;
+  }
+
+  .relative2{
+    width: 1920px;
+    height: 2000px;
+  }
+
+  .relative3{
+    width: 1920px;
+    height: 3090px;
+  }
+  
+  #mainimg{
+    position: absolute;
+  }
+  
+  #p1_why{
+    position: absolute;
+    width: 57px;
+    height: 30px;
+    left: 760px;
+    top: 60px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+    color: #FAFAFA;
+  }
+  
+  #p1_how{
+    position: absolute;
+    width: 55px;
+    height: 30px;
+    left: 946px;
+    top: 60px;
+      
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+    color: #FAFAFA;
+  }
+  
+  #button1{
+    position: absolute;
+    width: 230px;
+    height: 67.08px;
+    border:none;
+    background-color:transparent;
+  }
+  
+  #button2{
+    position: absolute;
+    width: 230px;
+    height: 67.08px;
+    border:none;
+    background-color:transparent;
+  }
